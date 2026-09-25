@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Tests
+test_*.py
+.pytest_cache/

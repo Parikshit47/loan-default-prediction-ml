@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset and heavy notebooks
+data/
+EDA using claude/
+*.ipynb
+.ipynb_checkpoints/
+anaconda_projects/
+misc-tasks/
+*.pdf
+
+# Frontend dev files
+frontend/node_modules/
+node_modules/
+.git/
+.github/
